@@ -14,7 +14,7 @@
     if (self) {
         
         _textTips = [[NSTextField alloc] initWithFrame:NSMakeRect(0, 50, 300, 180)];
-        _textTips.stringValue = @"请拖入您需要处理的图片";
+        _textTips.stringValue = @"Drag the picture here";
         [_textTips setAlignment:NSCenterTextAlignment];
         [_textTips setBezeled:NO];
         [_textTips setDrawsBackground:NO];
