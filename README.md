@@ -18,7 +18,3 @@
 ![2015-06-25 5 35 11](https://cloud.githubusercontent.com/assets/3711488/8353096/5981cd24-1b6d-11e5-9a30-c358ae318248.png)
 ![2015-06-25 6 07 42](https://cloud.githubusercontent.com/assets/3711488/8353097/59841a2a-1b6d-11e5-932b-516b68536c2a.png)
 ![2015-06-25 6 18 04](https://cloud.githubusercontent.com/assets/3711488/8353098/5985afb6-1b6d-11e5-8316-9388177f0e40.png)
-
-
-![-low__2](https://cloud.githubusercontent.com/assets/3711488/8353236/7706a576-1b6e-11e5-9fa3-93f42bf36075.png)
-
